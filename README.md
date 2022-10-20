@@ -1,2 +1,2 @@
-# html-css-exercicios
-Exercícios de html5 e css3
+# html_css-exercicos
+Exercícios de html e css
